@@ -78,15 +78,15 @@ class Checkout extends Component<IProps, IStates> {
 
       this.state.checkout.setPromotion(promotion).add({
          id: 'classic',
-         name: 'classic',
+         name: 'Classic Ad',
          amount: 269.99,
       }).add({
          id: 'classic',
-         name: 'classic',
+         name: 'Classic Ad',
          amount: 269.99,
       }).add({
          id: 'classic',
-         name: 'classic',
+         name: 'Classic Ad',
          amount: 269.99,
       }).total();
 
