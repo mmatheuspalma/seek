@@ -26,4 +26,4 @@ Package managers Npm or Yarn ( preference to Yarn, by speed and security )
 ``
 
 ### Changing rules
-To change a specif discount rule, you can modify it on the state of main component ( checkout )
+To change a specific discount rule, you can modify it on the state of main component ( checkout )
